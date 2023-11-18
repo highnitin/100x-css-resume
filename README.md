@@ -18,3 +18,12 @@ To view the assignment, follow these steps:
 
    ```bash
    git clone https://github.com/highnitin/100x-css-resume.git
+
+
+## Contributing
+
+We welcome contributions and collaboration from the community. Feel free to open issues, suggest enhancements, or submit pull requests to help us improve the 100x CSS Resume.
+
+Happy coding!
+
+[![Follow me on LinkedIn](https://img.shields.io/badge/Follow%20Me%20on-LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/highnitin/)
